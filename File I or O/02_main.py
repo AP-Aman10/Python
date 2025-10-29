@@ -1,5 +1,5 @@
 # The text to write
-credentials_text = "Email => amanpatidar812@gmail.com\nPassword => KnightP@96\n"
+credentials_text = "Email => amanpatidar812@gmail.com\nPassword => KnightP@10\n"
 
 # File path
 file_path = "File I or O/myfile.txt"
