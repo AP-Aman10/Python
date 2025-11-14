@@ -1,0 +1,16 @@
+Name => Aman Patidar
+Father Name => Naynesh Patidar
+Mothe Name => Sharda Devi Patidar
+DOB => 20-11-2005
+
+Email => amanpatidar812@gmail.com
+Password => KnightP@96
+
+Hobbies & Interests =>
+Python, FootBall, Gaming
+
+Channel Name =>
+YouTube => AP_Knight10
+Instagram => its._aman_10
+Discord => AP_Knight10
+Roblox => AP_BadgeP10
